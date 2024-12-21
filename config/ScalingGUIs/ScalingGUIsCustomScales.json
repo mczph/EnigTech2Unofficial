@@ -1,10 +1,26 @@
 {
-  "guiScale": 0,
-  "hudScale": 0,
-  "tooltipScale": 0,
+  "guiScale": 4,
+  "hudScale": 4,
+  "tooltipScale": 4,
   "customIndividualGuiScales": {},
   "customGroupGuiScales": {},
-  "loggedGuiClassNames": [],
+  "loggedGuiClassNames": [
+    "net.minecraft.client.gui.GuiYesNo",
+    "net.minecraft.client.gui.GuiWorldSelection",
+    "net.minecraft.client.gui.GuiCreateWorld",
+    "lumien.custommainmenu.gui.GuiCustom",
+    "net.minecraft.client.gui.GuiScreenWorking",
+    "mcjty.theoneprobe.gui.GuiNote",
+    "mcjty.theoneprobe.gui.GuiConfig",
+    "net.minecraft.client.gui.GuiChat",
+    "net.optifine.gui.GuiChatOF",
+    "net.minecraft.client.gui.inventory.GuiInventory",
+    "net.minecraft.client.gui.inventory.GuiContainerCreative",
+    "net.minecraft.client.gui.GuiIngameMenu",
+    "net.minecraft.client.gui.GuiOptions",
+    "net.minecraft.client.gui.GuiVideoSettings",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
+  ],
   "blacklistGuiClassNames": [],
   "dynamicGuiScales": []
 }

@@ -58,15 +58,6 @@ val shapedRecipes as IIngredient[][][IItemStack] = {
         [<contenttweaker:ascenders_proof>.reuse()],
         [<bibliocraft:bookcase:6>],
     ],
-    <wct:wct_creative>.withTag({IsInRange: 0 as byte}) : [
-        [<contenttweaker:ascenders_proof>.reuse()],
-        [<wct:wct>.withTag({internalCurrentPower: 1600000.0})]
-    ],
-    <wpt:wpt_creative>.withTag({IsInRange: 0 as byte}) : [
-        [<contenttweaker:ascenders_proof>.reuse()],
-        [<wct:wct_creative>.withTag({IsInRange: 0 as byte})],
-        [<appliedenergistics2:material:52>]
-    ],
      <deepmoblearning:creative_model_learner> : [
         [<thermalfoundation:upgrade:256>],
         [<deepmoblearning:data_model_blank>]

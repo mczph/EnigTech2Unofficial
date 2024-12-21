@@ -1,4 +1,11 @@
-# EnigTech2
+# EnigTech2Unofficial
+
+EnigTech2Unofficial（以下简称ET2U）是ET2的一个非官方版本，使用[Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom)并跟上1.12.2的新兴模组。
+
+授权：[本视频](https://www.bilibili.com/video/BV1GAC9YXESt)下方评论区。
+![授权](image.png)
+
+## 原介绍
 
 <u>EnigTech2 uses Twitch for the initial installation, but subsequent updates and changes are performed in the MMC launcher environment.</u>
 

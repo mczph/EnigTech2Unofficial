@@ -1,9 +1,10 @@
 # EnigTech2Unofficial
 
-EnigTech2Unofficial（以下简称ET2U）是ET2的一个非官方版本，使用[Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom)并跟上1.12.2的新兴模组。
+EnigTech2Unofficial（以下简称ET2U）是ET2的一个非官方版本，使用[Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom)并使用1.12.2的新兴模组。
 
 授权：[本视频](https://www.bilibili.com/video/BV1GAC9YXESt)下方评论区。
-![授权](image.png)
+
+![授权](https://github.com/user-attachments/assets/67218b39-21cb-4e51-8d20-85f158c44d99)
 
 ## 原介绍
 
